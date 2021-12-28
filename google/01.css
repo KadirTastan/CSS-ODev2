@@ -1,0 +1,47 @@
+.cp {
+    display: block;
+    margin: auto;
+    
+}
+
+.cd {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 22px;
+}
+
+.align {
+    display: flex;
+    
+}
+
+.align2 {
+    float: left;
+}
+
+#dis_bolme { 
+    display: flex;
+    
+    width: 1520px; 
+    
+    height:250px;
+    justify-content: center;
+   
+    
+    }
+    
+    .ic_bolme{
+        text-align: center;
+    
+        float:left;
+    
+        width:506px;
+    
+        height:150px;
+    
+        border:#CCC solid 1px;
+    
+       margin-right: auto;
+    
+        margin-left: auto;
+    }
